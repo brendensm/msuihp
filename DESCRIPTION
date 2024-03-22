@@ -1,0 +1,15 @@
+Package: msuihp
+Type: Package
+Title: Helper functions and color palettes for Michigan State University Institute for Health Policy
+Version: 0.1.0
+Author: Brenden Smith
+Maintainer: Brenden Smith <smit2535@msu.edu>
+Description: Includes helper functions for common plotting. Provides several 
+    color palettes that use MSU branding colors for easy access.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    palettes,
+    R (>= 2.10)
+RoxygenNote: 7.2.3
